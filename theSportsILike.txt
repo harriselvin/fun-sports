@@ -1,10 +1,7 @@
 I really enjoy participating in sports 
 
-<<<<<<< HEAD
-3) Baseball
-4) Soccer
-=======
 Sports:
 1) Volley Ball
 2) Netball
->>>>>>> secondBranch
+3) Baseball
+4) Soccer
